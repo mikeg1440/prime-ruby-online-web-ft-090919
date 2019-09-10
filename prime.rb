@@ -3,6 +3,6 @@
 
 def prime?(num)
   
-  (1)
+  (2..(num -1)).each {|
   
 end
