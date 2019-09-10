@@ -2,5 +2,7 @@
 
 
 def prime?(num)
-  Prime.prime?(num)
+  
+  (1)
+  
 end
